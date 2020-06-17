@@ -21,3 +21,9 @@ In-built and User defined Data Structures in Python
     * Graph
 
 ## [Tuple](https://github.com/Ankit-Khule/Data-Structures-in-Python/blob/master/Tuples.ipynb)
+
+## [List](https://github.com/Ankit-Khule/Data-Structures-in-Python/blob/master/List.ipynb)
+
+## [Dictionary](https://github.com/Ankit-Khule/Data-Structures-in-Python/blob/master/Dictionary.ipynb)
+
+## [Sets](https://github.com/Ankit-Khule/Data-Structures-in-Python/blob/master/Sets.ipynb)
